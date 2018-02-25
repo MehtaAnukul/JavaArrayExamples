@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26a11303-802e-49b0-b5c0-007fde451804" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaArrayPractise/ArryLenTotal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaArrayPractise/StrUniqChar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ArryLenTotal.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StrUniqChar.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaArrayPractise/ArrayDemo.class" afterPath="$PROJECT_DIR$/out/production/JavaArrayPractise/ArrayDemo.class" />
@@ -605,12 +608,12 @@
       <updated>1518867126770</updated>
       <workItem from="1518867132944" duration="5005000" />
       <workItem from="1518931461163" duration="934000" />
-      <workItem from="1519555852340" duration="10680000" />
+      <workItem from="1519555852340" duration="10763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16619000" />
+    <option name="totallyTimeSpent" value="16702000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
