@@ -10,14 +10,15 @@ public class ArryLenTotal {
         int count = 0;
 
         for (int i = 0; i < a.length; i++) {
-            {
-                for (int j = 0; j < a[i].length(); j++) {
-                    count++;
-                }
+            for (int j = 0; j < a[i].length(); j++) {
+                count++;
             }
         }
         System.out.println(count);
+
     }
+
 }
+
 
 

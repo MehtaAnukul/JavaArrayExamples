@@ -12,7 +12,7 @@ import java.util.List;
 
 public class StrUniqChar {
     public static void main(String[] args) {
-        String wordsArray[] = {"karan", "mimoh", "dhananjay", "rahul", "vishal", "anukul"};
+        String wordsArray[] = {"karan", "manam", "naman", "121", "vishal", "anukul"};
         Character rem[] = {};
         int count = 0;
 
@@ -24,6 +24,7 @@ public class StrUniqChar {
 
 //                boolean status = ;
 //                System.out.println(status);
+
                 if (!characters.contains(eachword.charAt(j))) {
                     //  System.out.println(eachword.charAt(j) + "" + Arrays.asList(rem).contains(eachword.charAt(j)));
                     characters.add(eachword.charAt(j));
