@@ -6,7 +6,6 @@ public class ArryLenTotal {
     public static void main(String[] args) {
 
         String a[] = {"Mimoh", "Anukul", "Kodee", "Sagar", "Naresh", "Vishal", "Rahul"};
-
         int count = 0;
 
         for (int i = 0; i < a.length; i++) {

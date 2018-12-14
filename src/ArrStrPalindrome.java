@@ -9,10 +9,9 @@ import java.lang.String;
 public class ArrStrPalindrome {
     public static void main(String arg[]) {
         String a[] = {"naman", "madam", "rahul", "121", "karan"};
-        String str, rev = "";
-        int length;
+        String rev = "";
 
-        length = a.length;
+        //length = a.length;
 
         for (int i = 0; i < a.length; i++) {
 
